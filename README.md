@@ -1,2 +1,2 @@
 # startup-of-the-year
-landing page for event
+landing page for an event
